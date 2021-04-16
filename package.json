@@ -70,5 +70,5 @@
     "schedule": "before 11am",
     "rebaseStalePrs": false
   },
-  "version": "0.0.0"
+  "version": "14.11.0"
 }
