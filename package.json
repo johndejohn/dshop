@@ -72,3 +72,8 @@
   },
   "version": "14.11.0"
 }
+{
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+}
